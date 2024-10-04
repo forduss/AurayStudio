@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="h2_01"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="h2_01"/>
+			<item value="h2"/>
+			<item value="@GetMapping(&quot;/product&quot;)"/>
+			<item value="@GetMapping(&quot;/product)"/>
+			<item value="@GetMapping(&quot;/product"/>
+			<item value="product"/>
+			<item value=".mega-menu-content ul"/>
+			<item value="header"/>
+			<item value=".nav-container:hover"/>
+			<item value=".submenu"/>
+			<item value=" |"/>
+			<item value="moulding"/>
+			<item value="mo"/>
+			<item value="wind"/>
+			<item value="&quot;/bath&quot;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="y_"/>
+			<item value="&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/style.css&quot;&gt;"/>
+			<item value="thinnerA"/>
+			<item value="&lt;li class=&quot;list-style&quot;&gt;"/>
+			<item value="li class=&quot;list-style&quot;"/>
+			<item value="signature"/>
+			<item value="vista"/>
+			<item value="sink"/>
+			<item value="pantry"/>
+			<item value="hood"/>
+			<item value="faucet"/>
+			<item value="etc"/>
+			<item value="innergateE"/>
+			<item value="innergateD"/>
+			<item value="innergateC"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-402"/>
+		<item key="DIALOG_Y_ORIGIN" value="464"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

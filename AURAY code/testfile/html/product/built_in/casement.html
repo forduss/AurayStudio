@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Auray Studio</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<script th:src="@{/js/script.js}"></script>
+</head>
+<body>
+	<header>
+		<h1>Auray Studio</h1>
+		<h1><a href="/product">Auray</a></h1>
+	</header>
+
+	<main>
+		<section>
+			<h2>여닫이</h2>
+			<!-- Thymeleaf loop to iterate over the built-in items -->
+			<div th:each="built_in : ${built_ins}" class="door-item">
+				<div class="built_in-field">
+					<a th:href="@{'/product/built_in/cabinet/' + ${built_in.y_no}}">
+						<img th:src="@{${built_in.y_img}}" style="width: 200px; height: 200px;">
+					</a>
+				</div>
+				<div class="built_in-field">
+					<strong>제품코드:</strong> <span th:text="${built_in.y_no}">제품코드</span>
+				</div>
+				<div class="built_in-field">
+					<strong>재질:</strong> <span th:text="${built_in.style}">재질</span>
+				</div>
+				<div class="built_in-field">
+					<strong>종류:</strong> <span th:text="${built_in.pro_kind}">종류:</span>
+				</div>
+				<div class="built_in-field">
+					<strong>제품명:</strong> <span th:text="${built_in.b_name}">제품명</span>
+				</div>
+			</div>
+		</section>
+	</main>
+
+</body>
+</html>

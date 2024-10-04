@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.AurayStudio.dao.KitchenDao"/>
+    <fullyQualifiedTypeName name="com.example.AurayStudio.service.KitchenService"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+    <fullyQualifiedTypeName name="jakarta.mail.Part"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.Part"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="lombok.RequiredArgsConstructor"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.type.MappedJdbcTypes"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Mapper"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Select"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.realm.JNDIRealm.User"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.net.openssl.ciphers.Authentication"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.annotation.AuthenticationPrincipal"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.User"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.Authentication"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.model.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.SecurityProperties.User"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+</qualifiedTypeNameHistroy>

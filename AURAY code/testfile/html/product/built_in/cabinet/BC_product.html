@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title th:text="${builtIn.b_name}">제품명</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+</head>
+<body>
+
+	<header>
+		<h1>Auray Studio</h1>
+		<h1>
+			<a href="/product/built_in/casement">Auray</a>
+		</h1>
+	</header>
+	<h1 th:text="${builtIn.b_name}">제품명</h1>
+	<p>
+		<strong>제품 코드:</strong> <span th:text="${builtIn.y_no}"></span>
+	</p>
+	<p>
+		<strong>재질:</strong> <span th:text="${builtIn.style}"></span>
+	</p>
+	<p>
+		<strong>종류:</strong> <span th:text="${builtIn.pro_kind}"></span>
+	</p>
+	<img th:src="@{${builtIn.y_img}}" alt="제품 이미지">
+</body>
+</html>

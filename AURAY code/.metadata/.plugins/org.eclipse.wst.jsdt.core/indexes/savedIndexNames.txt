@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+Y:\auray main\Áø\AURAY code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+44246204.index
+2152356122.index
+2060842896.index
+4177668144.index
+2072300026.index
+236426921.index
+3797805017.index
